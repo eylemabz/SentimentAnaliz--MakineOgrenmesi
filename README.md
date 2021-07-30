@@ -3,7 +3,7 @@
 # Siniflandirma Algoritmalari
 # SentiWordNet
 
-Staj konum olan Sentiment analysis yani duygu analizi konusunda internette bulduğum kodları bir youtube videosu çekerek anlatmaya çalıştım. İlk videomda sentiwornet kullanarak analiz yapan bir kod anlattım.
+Staj konum olan Sentiment analysis yani duygu analizi konusunda internette bulduğum kodları youtube videoları çekerek anlatmaya çalıştım. İlk videomda sentiwornet kullanarak analiz yapan bir kod anlattım.
 
 Link : https://www.youtube.com/watch?v=8PaWNfFP2jA&t=276s
 
