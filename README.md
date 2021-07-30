@@ -1,0 +1,1 @@
+# SentimentAnaliz--MakineOgrenmesi--SiniflandirmaAlgoritmalari
