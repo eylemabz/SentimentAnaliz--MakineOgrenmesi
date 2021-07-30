@@ -1,6 +1,6 @@
-# SentimentAnaliz
-# MakineOgrenmesi
-# SiniflandirmaAlgoritmalari
+# Sentiment Analiz
+# Makine Ogrenmesi
+# Siniflandirma Algoritmalari
 # SentiWordNet
 
 Staj konum olan Sentiment analysis yani duygu analizi konusunda internette bulduğum kodları bir youtube videosu çekerek anlatmaya çalıştım. İlk videomda sentiwornet kullanarak analiz yapan bir kod anlattım.
